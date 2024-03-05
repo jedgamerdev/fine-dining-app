@@ -31,8 +31,9 @@ const Gallery = () => {
           className="p__opensans"
           style={{ color: "#AAAAAA", marginTop: "2rem" }}
         >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat
-          mattis ipsum turpis elit elit scelerisque egestas mu.
+          Explore our photo gallery for a taste of the <b>Lorriane&apos;s </b>
+          experience. From mouthwatering dishes to our inviting atmosphere, we
+          invite you to step inside and discover what awaits.
         </p>
         <button type="button" className="custom__button">
           View More

@@ -59,23 +59,27 @@ const cocktails = [
 const awards = [
   {
     imgUrl: images.award01,
-    title: "Bib Gourmond",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    title: "People's Choice Award",
+    subtitle:
+      "As voted by our valued customers, this award recognizes the consistent quality and positive experiences enjoyed by our diners.",
   },
   {
     imgUrl: images.award02,
-    title: "Rising Star",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    title: "Top Service Award",
+    subtitle:
+      "This award acknowledges our dedicated staff who go above and beyond to provide exceptional hospitality to every guest.",
   },
   {
     imgUrl: images.award03,
-    title: "Hospitality",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    title: "Innovative Dish Award",
+    subtitle:
+      "This award celebrates our culinary team's creativity and dedication to bringing exciting and delicious new dishes to the table.",
   },
   {
     imgUrl: images.award05,
-    title: "Outstanding Chef",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    title: "Sustainable Practices Award",
+    subtitle:
+      "This award acknowledges our commitment to sourcing fresh, local ingredients and minimizing our environmental impact.",
   },
 ];
 

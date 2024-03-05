@@ -17,14 +17,21 @@ const Chef = () => (
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote_image" />
           <p className="p__opensans">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit .
+            At Lorriane&apos;s, we believe in the power of food to bring people
+            together.
           </p>
         </div>
         <p className="p__opensans">
           {" "}
-          auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit.
-          Nulla scelerisque scelerisque congue ac consequat, aliquam molestie
-          lectus eu. Congue iaculis integer curabitur semper sit nunc.{" "}
+          Our dishes are more than just meals; they are a celebration of
+          culture, tradition, and the simple joy of eating. We take pride in our
+          craft, meticulously preparing each dish with the freshest ingredients
+          and time-honored cooking techniques. We strive to create a dining
+          experience that not only satisfies the palate but also nourishes the
+          soul. Our commitment to quality and authenticity is unwavering. We
+          invite you to join us on this culinary journey, to savor the flavors
+          of our heritage, and to share in the love and passion we pour into
+          every dish.
         </p>
       </div>
 
